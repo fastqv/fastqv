@@ -6,4 +6,4 @@ I currently live in the Netherlands, where I work on my MSc degree in AI. <br/>
 
 - 💬 Socials and contacts: [linkedin](http://www.linkedin.com/in/fastqv) / [e-mail](mailto:ivan.polyakov.01@gmail.com). 
 
-[My CV](https://fastqv.github.io)
+[Website](https://fastqv.github.io)
